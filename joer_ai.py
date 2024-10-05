@@ -33,6 +33,7 @@ def main():
             break
         response = joer.respond(user_input)
         print("JoerAI:", response)
+        
 
 if __name__ == "__main__":
     main()
